@@ -5,7 +5,7 @@
   <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
-- 🔭 I’m currently working as a **Senior Software Engineer at AutoZilla (Sept 2024 - Present), building AI agents for data automation and business optimization.**
+- 🔭 I’m currently working as a **Senior Software Engineer, building AI agents for data automation and business optimization**
 - 🌱 I’m currently learning **Data Science, Flask, Python, Docker, ETL Tools, AWS, Data Ware House, Trading Stock Market, PowerBi**
 - 👨‍💻 Check out my projects are available at [https://github.com/rohitrauthan07](https://github.com/rohitrauthan07)
 📫 Reach me at:
